@@ -12,3 +12,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+  AI was used in developing the front-end design of this project.
